@@ -16,7 +16,7 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #c1e0ff; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --main-color: #ffa8ae; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://cdn.discordapp.com/attachments/1004443054343721150/1090705687681712330/38b73ede2b6115099f2fb97182a5b8a3.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://media.discordapp.net/attachments/1004443054343721150/1031762942678544384/b5b1e7a6bb4f87f4482f4d8c08ef4494.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://cdn.discordapp.com/attachments/1004443054343721150/1090706039382495372/KSA_Magolor_icon.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://media.discordapp.net/attachments/1004443054343721150/1033111231185305790/KCC_Kirby_artwork_2.webp); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 60px; /* home button icon size [default: 40px] */
 
@@ -112,3 +112,4 @@
   --bd-blue: var(--main-color); /* betterdiscord main color [default: var(--main-color)] */
   --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
   --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
+}
